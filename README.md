@@ -15,3 +15,9 @@
 ## MSE
 
 ## MAE
+
+## R-squared
+
+## MAPE
+
+## MPE
