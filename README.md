@@ -3,7 +3,11 @@ After model fitting it is usually of interest to assess how well it can predict 
 By comparing model's predictions and the actual data.
 ## Accuracy
 This is the raio of correct predictions to total predictions.
+
+```r
 accuracy = number_correct / total
+```
+
 ## Confusion Matrix
 
 ## F1 score
