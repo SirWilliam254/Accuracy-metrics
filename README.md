@@ -5,7 +5,7 @@ By comparing model's predictions and the actual data.
 This is the raio of correct predictions to total predictions.
 
 ```r
-accuracy = number_correct / total
+accuracy = correct_pred / total_pred
 ```
 
 ## Confusion Matrix
