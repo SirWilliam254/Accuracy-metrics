@@ -9,6 +9,7 @@ accuracy = correct_pred / total_pred
 ```
 
 ## Confusion Matrix
+A Confusion matrix is a N x N matrix that is used to assess the effectiveness of a classification model, where N is the number of target classes. The matrix compares the actual target values to the machine learning model's predictions.
 
 ## F1 score
 
