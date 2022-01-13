@@ -28,6 +28,7 @@ F1 = 2 * (precision * recall) / (precision + recall)
 ```r
 precision = True Positives / (True Positives + False Positives)
  ```
+ this number tells us the percentage of the correctness of a prediction given a certain model.
 ## Recall
 
 ## rmse
