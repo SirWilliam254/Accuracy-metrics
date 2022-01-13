@@ -14,6 +14,10 @@ A Confusion matrix is a N x N matrix that is used to assess the effectiveness of
 
 ## F1 score
 
+```r
+F1 score is defined as the harmonic mean between precision and recall. It is used as a statistical measure to rate performance.
+```
+
 ## Precision
 
 ## Recall
