@@ -25,7 +25,9 @@ F1 = 2 * (precision * recall) / (precision + recall)
 
 ## Precision
 
-
+```r
+precision = True Positives / (True Positives + False Positives)
+ ```
 ## Recall
 
 ## rmse
