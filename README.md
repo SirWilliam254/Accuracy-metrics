@@ -31,6 +31,10 @@ precision = True Positives / (True Positives + False Positives)
  this number tells us the percentage of the correctness of a prediction given a certain model.
 ## Recall
 
+```r
+Recall = TP/(TP + FN)
+```
+
 ## rmse
 
 ## MSE
