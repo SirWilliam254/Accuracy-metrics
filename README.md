@@ -47,8 +47,10 @@ The root mean square error is a metric that informs us the average distance betw
 ## MSE
 
 ```r
-Mean Square Error
+Mean Square Error:
 
+mean(model_sums$residuals^2) or rather
+mean((actual - predicted)^2)
 ```
 For MSE the average squared difference between the observed and predicted values is calculated. When there is no error in a model, the MSE is 0. As model inaccuracy rises, so does its value.
 
