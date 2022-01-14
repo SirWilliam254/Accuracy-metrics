@@ -33,12 +33,14 @@ precision = True Positives / (True Positives + False Positives)
 
 ```r
 Recall = TP/(TP + FN)
+//TP is true positive and FN false negative
 ```
 The number of false negatives introduced into the prediction mix is referred to as recall. When a false negative is anticipated, the recall rate is punished.
 
 ## rmse
 ```r
-Root mean square error
+Root mean square error of the formula:
+sqrt(mean((actual - predicted)^2))
 ```
 The root mean square error is a metric that informs us the average distance between the model's predicted values and the actual values in the dataset.
 
