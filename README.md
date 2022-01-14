@@ -37,6 +37,10 @@ Recall = TP/(TP + FN)
 The number of false negatives introduced into the prediction mix is referred to as recall. When a false negative is anticipated, the recall rate is punished.
 
 ## rmse
+```r
+Root mean square error
+```
+The root mean square error is a metric that informs us the average distance between the model's predicted values and the actual values in the dataset.
 
 ## MSE
 
