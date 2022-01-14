@@ -56,7 +56,9 @@ For MSE the average squared difference between the observed and predicted values
 
 ## MAE
 ```r
-mean absolute error
+mean absolute error is the name
+absolute error = |Actual Value - Predicted Value|
+MAE = Average of All absolute errors
 ```
 this is the average of all absolute errors
 ## R-squared
