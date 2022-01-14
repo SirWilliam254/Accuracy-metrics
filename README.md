@@ -34,6 +34,7 @@ precision = True Positives / (True Positives + False Positives)
 ```r
 Recall = TP/(TP + FN)
 ```
+The number of false negatives introduced into the prediction mix is referred to as recall. When a false negative is anticipated, the recall rate is punished.
 
 ## rmse
 
