@@ -58,7 +58,7 @@ For MSE the average squared difference between the observed and predicted values
 ```r
 mean absolute error
 ```
-
+this is the average of all absolute errors
 ## R-squared
 
 ## MAPE
