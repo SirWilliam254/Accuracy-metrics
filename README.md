@@ -46,6 +46,12 @@ The root mean square error is a metric that informs us the average distance betw
 
 ## MSE
 
+```r
+Mean Square Error
+
+
+```
+
 ## MAE
 
 ## R-squared
