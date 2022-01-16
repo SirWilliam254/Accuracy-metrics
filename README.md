@@ -63,6 +63,15 @@ MAE = Average of All absolute errors
 this is the average of all absolute errors
 ## R-squared
 
+```r
+R2= 1- SSres / SStot
+
+Here,
+
+SSres: The sum of squares of the residual errors.
+SStot: It represents the total sum of the errors.
+```
+
 R-squared (R2) is a statistical metric that quantifies the proportion of the variation explained by an independent variable or variables in a regression model for a dependent variable. Whereas correlation describes the strength of the link between an independent and dependent variable, R-squared explains how well one variable's variation explains the variance of the other. So, if a model's R2 is 0.50, then the model's inputs can explain roughly half of the observed variance.
 
 ## MAPE
