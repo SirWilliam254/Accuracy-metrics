@@ -77,6 +77,8 @@ R-squared (R2) is a statistical metric that quantifies the proportion of the var
 ```python
 MAPE stands for Mean Absolute Percent Error
 ```
+MAPE is widely utilized since it is simple to comprehend and explain. A MAPE score of 9.5 percent, for example, indicates that the average difference between the predicted and actual value is 9.5 percent.
 
+The lower the MAPE number, the better a model can estimate values. A model with a MAPE of 3%, for example, is more accurate than a model with a MAPE of 13%.
 
 ## MPE
