@@ -80,6 +80,12 @@ MAPE stands for Mean Absolute Percent Error
 ```r
 MAPE = (1/n) * Σ(|Original – Predicted| / |Original|) * 100
 
+
+n – is the sample size
+
+actual – is the actual data value
+
+forecast – is the forecasted data value
 ```
 
 MAPE is widely utilized since it is simple to comprehend and explain. A MAPE score of 9.5 percent, for example, indicates that the average difference between the predicted and actual value is 9.5 percent.
