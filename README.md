@@ -96,3 +96,8 @@ The lower the MAPE number, the better a model can estimate values. A model with 
 ```html
 MPE stands for Mean Percentage Error
 ```
+```r
+
+```
+
+It is the calculated average of the percentage errors by which model projections deviate from actual values of the quantity being forecasted.
