@@ -97,7 +97,9 @@ The lower the MAPE number, the better a model can estimate values. A model with 
 MPE stands for Mean Percentage Error
 ```
 ```r
+Percent error = |Measured Value – Actual Value| True Value x 100%
 
+mean percentage error is the average of the percentage errors
 ```
 
 It is the calculated average of the percentage errors by which model projections deviate from actual values of the quantity being forecasted.
