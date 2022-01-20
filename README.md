@@ -93,3 +93,6 @@ MAPE is widely utilized since it is simple to comprehend and explain. A MAPE sco
 The lower the MAPE number, the better a model can estimate values. A model with a MAPE of 3%, for example, is more accurate than a model with a MAPE of 13%.
 
 ## MPE
+```python
+MPE stands for Mean Percentage Error
+```
