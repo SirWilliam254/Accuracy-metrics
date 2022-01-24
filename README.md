@@ -5,7 +5,6 @@ By comparing model's predictions and the actual data.
 This is the ratio of correct predictions to total predictions.
 
 
-
 ```r
 accuracy = correct_pred / total_pred
 ```
